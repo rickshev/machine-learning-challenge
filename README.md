@@ -34,6 +34,6 @@ In this project, you will need to:
 * Python
 * Machine Learning
 * scikit-learn
-  * SVC
+  * SVC (Support Vector Machine)
   * GridSearchCV
   * One-Hot-Encoding
