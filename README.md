@@ -29,3 +29,11 @@ In this project, you will need to:
 * Tune and compare at least two different classifiers.
 
 - - -
+
+### Technologies Used
+* Python
+* Machine Learning
+* scikit-learn
+  * SVC
+  * GridSearchCV
+  * One-Hot-Encoding
